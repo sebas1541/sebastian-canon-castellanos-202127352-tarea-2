@@ -64,7 +64,7 @@ Se verificó el correcto funcionamiento del contenedor y sus configuraciones.
 
 ### 8. Conexión a la Base de Datos
 
-Comando ejecutado: `docker exec -it mi-contenedor-postgres psql -U myuser -d mydb`
+Comando ejecutado: `docker exec -it postgres-perzonalizado psql -U myuser -d mydb`
 
 ![Executing PostgreSQL](images/executing%20postgress.png)
 
