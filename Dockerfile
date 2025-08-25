@@ -1,0 +1,4 @@
+FROM postgres:13.22-trixie
+ENV POSTGRES_USER=myuser
+ENV POSTGRES_PASSWORD=mypassword
+ENV POSTGRES_DB=mydb
